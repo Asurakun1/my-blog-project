@@ -1,0 +1,20 @@
+.author{
+    position: absolute;
+    top: 1vh;
+    left: 20vw;
+    font-size: 1rem;
+    max-width: 25vw;
+    display: flex;
+    gap: 1vw;
+}
+
+.author img{
+    width: 35%;
+    height: 35%;
+    border-radius: 50%;
+}
+
+.author section h3 span{
+    font-style: italic;
+    text-transform: uppercase;
+}
