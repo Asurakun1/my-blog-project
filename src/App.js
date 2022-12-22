@@ -1,12 +1,13 @@
 import './App.css';
 import ArticleSection from './Components/ArticleSection/ArticleSection';
 import Header from './Components/Header/Header';
+import NavBar from './Components/NavBar/NavBar';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <ArticleSection/>
+      <NavBar />
     </div>
   );
 }

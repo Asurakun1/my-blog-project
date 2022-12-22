@@ -1,5 +1,4 @@
 import './Author.css';
-
 const Author = () => {
     return (
         <section className="author">

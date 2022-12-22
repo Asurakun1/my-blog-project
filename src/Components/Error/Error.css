@@ -1,0 +1,50 @@
+.error{
+    text-align: center;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error section{
+    min-height: 25vh;
+}
+
+.error-box{
+    border: 2px solid black;
+    min-width: 10rem;
+    min-height: 10rem;
+}
+
+.spin{
+    animation: spinReverse 3s linear infinite;
+}
+
+.spin-reverse{
+    transform: rotate(45deg);
+}
+
+.rotate{
+    transform: rotate(-22.5deg);
+}
+
+
+@keyframes spin {
+    from{
+        transform: rotate(0deg);
+    }
+    
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spinReverse {
+    from{
+        transform: rotate(360deg);
+    }
+    
+    to{
+        transform: rotate(0deg);
+    }
+}

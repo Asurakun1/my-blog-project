@@ -1,5 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { background-color: #F5F1DA; }
+.My-Color-Theme-2-hex { background-color: #D4CEBC; }
+.My-Color-Theme-3-hex { background-color: #EBE6DD; }
+.My-Color-Theme-4-hex { background-color: #D4C9BC; }
+.My-Color-Theme-5-hex { background-color: #F5E5DA; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { background-color: rgba(245, 241, 218, 1); }
+.My-Color-Theme-2-rgba { background-color: rgba(212, 206, 188, 1); }
+.My-Color-Theme-3-rgba { background-color: rgba(235, 230, 221, 1); }
+.My-Color-Theme-4-rgba { background-color: rgba(212, 201, 188, 1); }
+.My-Color-Theme-5-rgba { background-color: rgba(245, 229, 218, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { background-color: hsla(51, 57, 90, 1); }
+.My-Color-Theme-2-hsla { background-color: hsla(44, 21, 78, 1); }
+.My-Color-Theme-3-hsla { background-color: hsla(38, 25, 89, 1); }
+.My-Color-Theme-4-hsla { background-color: hsla(32, 21, 78, 1); }
+.My-Color-Theme-5-hsla { background-color: hsla(24, 57, 90, 1); }
 
 body{
   margin: 0;
