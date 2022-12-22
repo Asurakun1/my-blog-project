@@ -9,16 +9,16 @@ const NavBar = () => {
             <nav className='main-nav'>
                 <ul>
                     <li><NavLink to="/" className="link">Home</NavLink></li>
-                    <li><NavLink to="/RandomArticle" className="link">Random Article</NavLink></li>
+                    <li><NavLink to="/random-article" className="link">Random Article</NavLink></li>
                     <li><NavLink className="link">Back</NavLink></li>
                     <li><NavLink className="link">Forward</NavLink></li>
-                    <li><NavLink className="link">About us</NavLink></li>
-                    <li><NavLink className="link">Contact</NavLink></li>
+                    <li><NavLink to='/about-us' className="link">About us</NavLink></li>
+                    <li><NavLink to='/contact' className="link">Contact</NavLink></li>
                 </ul>
             </nav>
             <Routes>
                 <Route path="/" element={<Home/>}/>
-                <Route path="/RandomArticle" element={<ArticleSection/>} />
+                <Route path="/random-article" element={<ArticleSection/>} />
                 <Route path="*" element={<Error404/>}/>
             </Routes>
         </Router>
