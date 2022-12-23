@@ -1,0 +1,18 @@
+.home .headlines{
+    margin-left: 1vw;
+}
+
+.home .headlines ul li, .home .local ul li{
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.home .headlines h3{
+    text-align: center;
+}
+
+.home .headlines ul p{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin-left: 1vw;
+}

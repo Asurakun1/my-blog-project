@@ -2,26 +2,6 @@
 .home{
     position: relative;
     display: flex;
-    font-size: 1.5rem;
-    line-height: 2.1rem;
-}
-
-.home .headlines{
-    margin-left: 10vw;
-    margin-top: 1vh;
-}
-
-.home .headlines ul li{
-    font-weight: bold;
-    list-style-type: none;
-}
-
-.home .headlines h3{
-    text-align: center;
-}
-
-.home .headlines ul p{
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-    margin-left: 1vw;
+    font-size: 1.3rem;
+    line-height: 1.8rem;
 }

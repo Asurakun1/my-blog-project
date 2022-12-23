@@ -1,42 +1,27 @@
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
+import Header from '../Header/Header';
+import Headlines from './Headlines/Headlines';
 import './Home.css';
+import Local from './Local/Local';
 const Home = () => {
     return (
-        <section className='home My-Color-Theme-5-hex'>
-            <section className='headlines'>
-                <h3>Latest Headlines</h3>
-                <ul>
-                    <li><Link to="/Craft-Beer" className='link'>New Study Shows Majority of People Actually Just Pretending to Like Craft Beer</Link></li>
-                    <p>Are You Really a Craft Beer Fan, or Just Pretending?<br />
-                        A new study has found that the majority of people who claim to enjoy craft beer are actually<br />
-                        just pretending.
-                    </p>
-                    <li><Link to="/WHO-Stress-Myth" className='link'>World Health Organization Announces That Stress is Actually Just a Myth</Link></li>
-                    <p>
-                        "We have come to the conclusion that stress does not exist," said Dr. Maria Hernandez,<br />
-                        a spokesperson for the WHO.
-                    </p>
-                    <li><Link to="/Trump-wall-around-sun" className='link'>Trump Administration Unveils Plan to Build Wall Around the Sun</Link></li>
-                    <p>
-                        "The sun is a threat to our national security, and we must take action to protect our citizens,"<br />
-                        said White House Press Secretary Sarah Huckabee Sanders. "This wall will be the most <br />
-                        advanced solar defense system in the world, and it will make America great again."
-                    </p>
-                    <li><Link to="/vegetarians-only-doing-it-for-instagram" className='link' >New Study Shows Majority of Vegetarians Only Doing it for Instagram Followers</Link></li>
-                    <p>
-                        According to a new study, the majority of vegetarians are only doing it for Instagram <br />
-                        followers. The research, which surveyed thousands of self-proclaimed vegetarians, found <br />
-                        that only a small percentage of respondents were motivated by ethical or health concerns. <br />
-                    </p>
-                    <li><Link to="/amazon-plans-brick-and-mortor" className='link'>Amazon Announces Plan to Open Brick and Mortar Stores in Customers' Homes</Link></li>
-                    <p>
-                        "We believe that the future of retail is in the home," said Amazon CEO Jeff Bezos. "Our <br />
-                        stores will be tailored to each customer's unique interests and needs, and we'll be able to <br />
-                        offer an even more seamless and convenient shopping experience."<br />
-                    </p>
-                </ul>
+        <div className='My-Color-Theme-5-hex'>
+            <Header />
+            <nav className='main-nav'>
+                {
+                    <ul>
+                        <li><NavLink to="/" className="link">Home</NavLink></li>
+                        <li><NavLink to="/random-article" className="link">Random Article</NavLink></li>
+                        <li><NavLink to='/about-us' className="link">About us</NavLink></li>
+                        <li><NavLink to='/contact' className="link">Contact</NavLink></li>
+                    </ul>
+                }
+            </nav>
+            <section className="home">
+                <Headlines />
+                <Local />
             </section>
-        </section>
+        </div>
     );
 }
 

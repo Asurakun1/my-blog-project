@@ -1,7 +1,10 @@
 .main-nav{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     background-color: #D4CEBC;
-    border: 1px solid;
+    min-height: 5vh;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
 }
 
 .link{
@@ -11,7 +14,7 @@
 
 .main-nav ul{
     display: flex;
-    gap: 10vw;
+    gap: 15vw;
     list-style: none;
     justify-content: center;
 }

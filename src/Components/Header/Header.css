@@ -1,6 +1,5 @@
 .layer{
     border: 1px solid black;
-    min-height: 13vh;
     display: flex;
     justify-content: center;
     font-size: 1.5rem;
