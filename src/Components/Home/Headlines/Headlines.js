@@ -5,17 +5,17 @@ const Headlines = () => {
             <section className='headlines'>
                 <h3>Latest Headlines</h3>
                 <ul>
-                    <li><Link to="/Craft-Beer" className='link'>New Study Shows Majority of People Actually Just Pretending to Like Craft Beer</Link></li>
+                    <li><Link to="/craft-Beer" className='link'>New Study Shows Majority of People Actually Just Pretending to Like Craft Beer</Link></li>
                     <p>Are You Really a Craft Beer Fan, or Just Pretending?<br />
                         A new study has found that the majority of people who claim to enjoy craft beer are actually<br />
                         just pretending.
                     </p>
-                    <li><Link to="/WHO-Stress-Myth" className='link'>World Health Organization Announces That Stress is Actually Just a Myth</Link></li>
+                    <li><Link to="/who-Stress-Myth" className='link'>World Health Organization Announces That Stress is Actually Just a Myth</Link></li>
                     <p>
                         "We have come to the conclusion that stress does not exist," said Dr. Maria Hernandez,<br />
                         a spokesperson for the WHO.
                     </p>
-                    <li><Link to="/Trump-wall-around-sun" className='link'>Trump Administration Unveils Plan to Build Wall Around the Sun</Link></li>
+                    <li><Link to="/trump-wall-around-sun" className='link'>Trump Administration Unveils Plan to Build Wall Around the Sun</Link></li>
                     <p>
                         "The sun is a threat to our national security, and we must take action to protect our citizens,"<br />
                         said White House Press Secretary Sarah Huckabee Sanders. "This wall will be the most <br />

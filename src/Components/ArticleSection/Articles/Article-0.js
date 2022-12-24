@@ -1,11 +1,10 @@
-import './ArticleSection.css';
-import Author from '../Author/Author';
+import Author0 from '../Author/Author0';
+const Article0 = () =>{
 
-const ArticleSection = () => {
-    return (
+    return(
         <section className="article">
-            <Author />
-            <h3 className='article-title'>The Top 10 Most Absurd Things That Have Happened This Year (So Far)</h3>
+            <Author0 />
+            <h1 className='article-title'>asdads</h1>
             <article>
                 <ol>
                     <li>The government announced that it will now be measuring time in <strong><em>dog years.</em></strong></li>
@@ -28,4 +27,4 @@ const ArticleSection = () => {
     );
 }
 
-export default ArticleSection;
+export default Article0;

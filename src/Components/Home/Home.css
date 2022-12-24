@@ -4,4 +4,5 @@
     display: flex;
     font-size: 1.3rem;
     line-height: 1.8rem;
+    justify-content: space-evenly;
 }

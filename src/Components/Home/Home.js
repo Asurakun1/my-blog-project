@@ -2,8 +2,10 @@ import { NavLink } from 'react-router-dom';
 import Header from '../Header/Header';
 import Headlines from './Headlines/Headlines';
 import './Home.css';
+import '../ArticleSection/ArticleSection.css';
 import Local from './Local/Local';
 const Home = () => {
+
     return (
         <div className='My-Color-Theme-5-hex'>
             <Header />

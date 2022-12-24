@@ -1,5 +1,5 @@
 import './Author.css';
-const Author = () => {
+const Author0 = () => {
     return (
         <section className="author">
             <img src='/images/sirFancyPants.jpg' alt='Sir Fancy Pants was here'></img>
@@ -12,4 +12,4 @@ const Author = () => {
     );
 }
 
-export default Author;
+export default Author0;
