@@ -15,7 +15,7 @@ const Local = () =>{
                 <br/>
                 <li><Link className='link'>Local Man Brags About Being 'Isekai'd' into Fantasy World, Returns with Terrible Manuscript and No Marketable Skills</Link></li>
                 <br/>
-                <li><Link className='link'>New Study Shows Majority of People Who Claim to Like Attending Town Hall Meetings Just Doing it to Get Out of Doing Actual Work</Link></li>
+                <li><Link className='link'>Man Loses Life Savings at Casino, Calls it 'Smart Financial Move' and Demands to See Manager</Link></li>
                 <br/>
             </ul>
         </section>
