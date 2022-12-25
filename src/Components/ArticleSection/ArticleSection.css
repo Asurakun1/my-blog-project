@@ -9,8 +9,8 @@
 }
 
 .article article{
-    max-width: 50vw;
-    line-height: 2.2rem;
+    max-width: 60vw;
+    line-height: 2.5rem;
 }
 
 .article .article-title{
@@ -29,6 +29,7 @@
 .article article img{
     max-width: 70%;
     margin: 0 auto;
+    object-fit: fill;
 }
 
 .article article section p{

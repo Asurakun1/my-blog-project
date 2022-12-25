@@ -30,5 +30,33 @@
                 "***\"It's a sad state of affairs,\"*** said Smith. ***\"But at least now we know the truth. The majority of people claiming to love craft beer are just full of, well, you know.\"***"
             ]
         }
+    },
+    {
+        "id": 3,
+        "title": "World Health Organization Announces That Stress is Actually Just a Myth",
+        "article": {
+            "section": [
+                "In a shocking announcement, the World Health Organization (WHO) has declared that stress is a myth and that people who claim to be stressed are just making it up.",
+                "According to Dr. Maria Hernandez, a spokesperson for the WHO, ***\"We have conducted numerous studies and have come to the conclusion that stress does not exist. It's just a figment of people's imaginations.\"***",
+                "The announcement has caused a stir in the medical community, with many experts questioning the validity of the WHO's claim. ***\"I find it hard to believe that stress isn't real,\"*** said Dr. John Smith, a psychologist at the University of New York. ***\"I see patients every day who are struggling with stress-related issues.\"***",
+                "Despite the criticism, the WHO remains firm in its belief that stress is a myth. ***\"We encourage people to just relax and not worry about things,\"*** said Dr. Hernandez. ***\"It's all in your head.\"***",
+                "Some have even gone so far as to suggest that the WHO's announcement is a form of ***gaslighting***, with people being told that their legitimate concerns and struggles are not real.",
+                "Regardless, it seems that the WHO's announcement has had little effect on the general population, with many people continuing to report feeling stressed on a daily basis. It remains to be seen how this controversy will play out in the coming weeks and months."
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "Trump Administration Unveils Plan to Build Wall Around the Sun",
+        "article": {
+            "section": [
+                "The Trump Administration has announced their plan to build a wall around the sun. According to White House Press Secretary Sarah Huckabee Sanders, the sun poses a threat to national security and action must be taken to protect American citizens.",
+                "***\"This wall will be the most advanced solar defense system in the world,\"*** Sanders declared. ***\"It will be big and beautiful, just like the rest of Trump's wall projects. And it will make America great again.\"***",
+                "However, many are skeptical about the feasibility of such a project. ***\"How exactly do you plan on building a wall around the sun?\"*** asked Representative Nancy Pelosi. ***\"It's a celestial body, not a piece of land. And what about the cost? The taxpayer dollars being spent on this ridiculous wall could be put to much better use.\"***",
+                "Despite the criticism, the Trump Administration remains determined to move forward with their plan. ***\"We have the best engineers and the best technology,\"*** said President Trump. ***\"We will get this wall done, and it will be a tremendous success. Believe me.\"***",
+                "The announcement has sparked outrage and disbelief among the general public. ***\"I can't believe this is real,\"*** said one Twitter user. ***\"Is this some kind of joke?\"***",
+                "Only time will tell if the Trump Administration's plan to build a wall around the sun will become a reality. But one thing is certain: ***the absurdity of American politics continues to reach new heights.***"
+            ]
+        }
     }
 ]
