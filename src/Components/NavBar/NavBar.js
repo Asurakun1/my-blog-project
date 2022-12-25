@@ -26,8 +26,8 @@ const NavBar = () => {
         <Router>
             <Routes>
                 <Route path="/" element={<Home/>}/>
-                <Route path="/random-article" element={<Article0/>} />
-                <Route path="/craft-Beer" element={<Article1 data={rawData}/>} />
+                <Route path="/random-article" element={<Article0 data={rawData[0]}/>} />
+                <Route path="/craft-Beer" element={<Article1 data={rawData[1]}/>} />
                 <Route path="*" element={<Error404/>}/>
             </Routes>
         </Router>

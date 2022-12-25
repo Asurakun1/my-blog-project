@@ -33,6 +33,13 @@ const Headlines = () => {
                         stores will be tailored to each customer's unique interests and needs, and we'll be able to <br />
                         offer an even more seamless and convenient shopping experience."<br />
                     </p>
+                    <li><Link to="/research-article" className="link">New Study Shows That Making the Stupid Even Stupider is Actually Possible</Link></li>
+                    <p>
+                        In a shocking new discovery, scientists have found a way to make the stupid even stupider. <br/>
+                        In a groundbreaking study, researchers at the Institute of Really Obvious Things found that <br/>
+                        by exposing the already dim-witted to even more idiotic stimuli, their intelligence levels <br/>
+                        could be drastically reduced.
+                    </p>
                 </ul>
             </section>
     );

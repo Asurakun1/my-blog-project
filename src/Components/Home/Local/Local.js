@@ -5,15 +5,15 @@ const Local = () =>{
         <section className="local">
             <h4>Local</h4>
             <ul>
-                <li><Link className='link'>Town's Water Supply Switched to Mountain Dew</Link></li>
+                <li><Link className='link'>Local Man Robs Bank, Shocked to Find Out It's Illegal</Link></li>
                 <br/>
-                <li><Link className='link'>Local Man Declares Himself Mayor, Holds Inauguration in Living Room</Link></li>
+                <li><Link className='link'>Man Thinks SWAT Team Raiding His Home is Actually a Surprise Birthday Party, Gets Tased and Handcuffed</Link></li>
                 <br/>
-                <li><Link className='link'>Local Man Claims to Have Invented Time Travel, Offers Tours for $100/Hour</Link></li>
+                <li><Link className='link'>Outraged Man Demands to See Manager After Learning It's Actually Illegal to Steal From Local Pharmacy</Link></li>
                 <br/>
-                <li><Link className='link'>New Study Shows Majority of People Who Claim to Like Volunteering Just Doing it for the Instagram Selfies</Link></li>
+                <li><Link className='link'>Local Shops Embrace the Future by Replacing Employees with Robots: "They Never Complain and They Don't Need Breaks"</Link></li>
                 <br/>
-                <li><Link className='link'>Local School Board Unveils Plan to Turn Entire District into a Giant Escape Room</Link></li>
+                <li><Link className='link'>Local Man Brags About Being 'Isekai'd' into Fantasy World, Returns with Terrible Manuscript and No Marketable Skills</Link></li>
                 <br/>
                 <li><Link className='link'>New Study Shows Majority of People Who Claim to Like Attending Town Hall Meetings Just Doing it to Get Out of Doing Actual Work</Link></li>
                 <br/>

@@ -4,16 +4,16 @@
         "title": "The Top 10 Most Absurd Things That Have Happened This Year (So Far)",
         "article": {
             "list": [
-                "The government announced that it will now be measuring time in 'dog years'.",
+                "The government announced that it will now be measuring time in ***dog years***.",
                 "A new study found that the average person spends more time scrolling through their social media feed than they do sleeping.",
-                "A company released a line of smart socks that can send text messages and post on social media.",
-                "A group of activists demanded that all traffic lights be replaced with stop signs because they look more natural.",
-                "A restaurant chain introduced a new menu item: a burger topped with a slice of cake.",
-                "A fashion designer debuted a line of clothing made entirely out of recycled plastic water bottles. The outfits have been praised as eco-friendly and trendy,but critics have pointed out that they also make a loud crinkling noise whenever the wearer moves.",
+                "A company released a line of ***smart*** socks that can send text messages and post on social media.",
+                "A group of activists demanded that all traffic lights be replaced with stop signs because they ***look more natural***.",
+                "A restaurant chain introduced a new menu item: ***a burger topped with a slice of cake***.",
+                "A fashion designer debuted a line of clothing made entirely out of recycled plastic water bottles. The outfits have been praised as ***eco-friendly*** and ***trendy***, but critics have pointed out that they also make a loud crinkling noise whenever the wearer moves.",
                 "A group of scientists claimed that they have discovered a way to make avocados taste like bacon. The announcement has been met with both excitement and skepticism, with many questioning whether the world is ready for such a revolutionary culinary breakthrough.",
-                "A politician announced that he will be running for office under the slogan Make America Great Again...Again.",
-                "A company released a line of smart toilet paper that can play music and send tweets.",
-                "A group of protesters marched through the streets demanding that all cars be banned because they take up too much space and contribute to climate change."
+                "A politician announced that he will be running for office under the slogan ***Make America Great Again...Again***.",
+                "A company released a line of ***smart*** toilet paper that can play music and send tweets.",
+                "A group of protesters marched through the streets demanding that all cars be banned because ***they take up too much space and contribute to climate change***."
             ]
         }
     },
@@ -21,6 +21,14 @@
         "id": 2,
         "headline": "Local News",
         "title": "New Study Shows Majority of People Actually Just Pretending to Like Craft Beer",
-        "article": "A new park has opened in the downtown area, providing a much-needed green space for residents and visitors to enjoy..."
+        "article": {
+            "section": [
+                "In a shocking turn of events, a new study has revealed that the majority of people who claim to be craft beer aficionados are actually just pretending.",
+                "According to the study, these so-called ***craft beer connoisseurs*** are just faking their love for hoppy IPAs and funky sours to seem cool and edgy. In reality, they would much rather be chugging down cheap cans of mass-produced lagers in the privacy of their own homes.",
+                "***\"We were really surprised by these findings,\"*** said lead researcher, Dr. Mary Smith. ***\"We always assumed that the craft beer craze was driven by a genuine appreciation for unique and artisanal brews. It turns out, it's just a bunch of people trying to fit in with the 'in-crowd'.\"***",
+                "The study also found that these fake craft beer lovers are more likely to be found at trendy bars and breweries, where they can be seen confidently spouting off beer jargon and pretending to know what ***mouthfeel*** means.",
+                "***\"It's a sad state of affairs,\"*** said Smith. ***\"But at least now we know the truth. The majority of people claiming to love craft beer are just full of, well, you know.\"***"
+            ]
+        }
     }
 ]
