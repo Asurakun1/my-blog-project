@@ -58,5 +58,54 @@
                 "Only time will tell if the Trump Administration's plan to build a wall around the sun will become a reality. But one thing is certain: ***the absurdity of American politics continues to reach new heights.***"
             ]
         }
+    },
+    {
+        "id": 5,
+        "title": "Experts: Global Economic Collapse Just a Coincidence, Definitely Not the Result of Reckless, Short-Sighted Policies",
+        "article": {
+            "section": [
+                "In a shocking revelation, experts have announced that the global economic collapse currently being experienced by countries around the world is just a coincidence, and definitely not the result of reckless, short-sighted policies enacted by government leaders.",
+                "According to leading economist Dr. John Smith, the collapse is simply a ***\"random occurrence\"*** and has nothing to do with the fact that governments have been printing unlimited amounts of money, leading to skyrocketing inflation and the devaluation of currencies.",
+                "***\"It's just a fluke,\"*** Dr. Smith said. ***\"Nothing to worry about.\"***",
+                "However, not everyone is convinced by this explanation. Many are pointing to the fact that government leaders have ignored warning signs and continued to engage in risky financial practices, leading to the current state of economic turmoil.",
+                "Despite this, experts assure the public that there is no cause for concern and that the collapse will resolve itself eventually. In the meantime, they recommend continuing to trust in the system and not making any hasty financial decisions.",
+                "***\"Just sit tight and everything will work out,\"*** Dr. Smith said with a reassuring smile. ***\"We promise.\"***"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "Government Announces Plan to Replace All Forms of Communication with Emoji-Only Text Messages",
+        "article": {
+            "section": [
+                "In a shocking move, the government has announced plans to phase out all forms of traditional communication, including verbal, written, and even sign language. The new plan, dubbed ***\"Emoji-Only,\"*** will require all citizens to communicate exclusively through a series of carefully selected emojis.",
+                "***\"We believe this will streamline communication and make it more efficient,\"*** said a spokesperson for the Department of Emoji Affairs. ***\"Plus, it'll be a lot more fun. Who doesn't love emojis?\"***",
+                "The transition to Emoji-Only will be gradual, with mandatory training sessions for all citizens. Those who struggle with the new system will be given additional support, including Emoji tutors and a comprehensive Emoji dictionary.",
+                "Critics have raised concerns about the potential for miscommunication and the lack of nuance in emoji-based communication. However, supporters of the plan argue that with enough practice, anyone can master the art of emoji.",
+                "The government is encouraging all citizens to start practicing their Emoji-Only skills as soon as possible, with the goal of fully implementing the system by the end of the year. In the meantime, prepare to say goodbye to words and hello to a whole new world of emojis."
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "title": "New Study Shows That Making the Stupid Even Stupider is Actually Possible",
+        "article": {
+            "section": [
+                "In a shocking new study, researchers at the Institute of Really Obvious Things have discovered that it is actually possible to make the stupid even stupider.",
+                "According to lead researcher Dr. Susan Smart, the team was able to achieve this feat by subjecting the already dim-witted to an endless stream of reality TV shows, conspiracy theories, and viral Facebook posts.",
+                "***\"We were really surprised by the results,\"*** said Dr. Smart. ***\"We thought these people couldn't get any dumber, but we were wrong. The potential applications of this technology are endless.\"***",
+                "The news has been met with mixed reactions, with some calling it a miraculous breakthrough and others decrying it as a form of torture. Regardless, the team at the Institute of Really Obvious Things is already looking into ways to monetize their discovery, with plans to open 'stupidity spas' and sell 'stupidity supplements' in the near future.",
+                "In the meantime, the rest of us can only hope that the stupid stay blissfully unaware of their own idiocy and continue to make poor life choices without any additional help."
+            ]
+        }
+    },
+    {
+        "id":8,
+        "title": "",
+        "article":{
+            "section":[
+                
+            ]
+        }
     }
 ]

@@ -21,11 +21,12 @@ const Headlines = () => {
                         said White House Press Secretary Sarah Huckabee Sanders. "This wall will be the most <br />
                         advanced solar defense system in the world, and it will make America great again."
                     </p>
-                    <li><Link to="/vegetarians-only-doing-it-for-instagram" className='link' >New Study Shows Majority of Vegetarians Only Doing it for Instagram Followers</Link></li>
+                    <li><Link to="/global-economic-collapse" className='link' >Experts: Global Economic Collapse Just a Coincidence, Definitely Not the Result of Reckless, Short-Sighted Policies</Link></li>
                     <p>
-                        According to a new study, the majority of vegetarians are only doing it for Instagram <br />
-                        followers. The research, which surveyed thousands of self-proclaimed vegetarians, found <br />
-                        that only a small percentage of respondents were motivated by ethical or health concerns. <br />
+                        According to leading economist Dr. John Smith, the collapse is simply a "random <br />
+                        occurrence" and has nothing to do with the fact that governments have been printing <br />
+                        unlimited amounts of money, leading to skyrocketing inflation and the devaluation of <br />
+                        currencies.
                     </p>
                     <li><Link to="/amazon-plans-brick-and-mortor" className='link'>Amazon Announces Plan to Open Brick and Mortar Stores in Customers' Homes</Link></li>
                     <p>

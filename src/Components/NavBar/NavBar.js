@@ -7,6 +7,7 @@ import Article1 from '../ArticleSection/Articles/Article-1';
 import { useState, useEffect } from "react";
 import Article2 from '../ArticleSection/Articles/Article-2';
 import Article3 from '../ArticleSection/Articles/Article-3';
+import Article4 from '../ArticleSection/Articles/Article-4';
 const NavBar = () => {
     const [rawData, setRawData] = useState("Loading...");
 
@@ -32,6 +33,7 @@ const NavBar = () => {
                 <Route path="/craft-Beer" element={<Article1 data={rawData[1]}/>} />
                 <Route path="/who-Stress-Myth" element={<Article2 data={rawData[2]}/>} />
                 <Route path="/trump-wall-around-sun" element={<Article3 data={rawData[3]}/>} />
+                <Route path="/global-economic-collapse" element={<Article4 data={rawData[4]}/>} />
                 <Route path="*" element={<Error404/>}/>
             </Routes>
         </Router>

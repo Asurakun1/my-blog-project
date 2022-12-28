@@ -13,3 +13,7 @@
     line-height: 1.5rem;
     margin-left: 1vw;
 }
+
+.home .headlines{
+    max-width: 47vw;
+}
