@@ -2,18 +2,19 @@
     {
         "id": 1,
         "title": "The Top 10 Most Absurd Things That Have Happened This Year (So Far)",
+        "imgsrc": "",
         "article": {
-            "list": [
-                "The government announced that it will now be measuring time in ***dog years***.",
-                "A new study found that the average person spends more time scrolling through their social media feed than they do sleeping.",
-                "A company released a line of ***smart*** socks that can send text messages and post on social media.",
-                "A group of activists demanded that all traffic lights be replaced with stop signs because they ***look more natural***.",
-                "A restaurant chain introduced a new menu item: ***a burger topped with a slice of cake***.",
-                "A fashion designer debuted a line of clothing made entirely out of recycled plastic water bottles. The outfits have been praised as ***eco-friendly*** and ***trendy***, but critics have pointed out that they also make a loud crinkling noise whenever the wearer moves.",
-                "A group of scientists claimed that they have discovered a way to make avocados taste like bacon. The announcement has been met with both excitement and skepticism, with many questioning whether the world is ready for such a revolutionary culinary breakthrough.",
-                "A politician announced that he will be running for office under the slogan ***Make America Great Again...Again***.",
-                "A company released a line of ***smart*** toilet paper that can play music and send tweets.",
-                "A group of protesters marched through the streets demanding that all cars be banned because ***they take up too much space and contribute to climate change***."
+            "section": [
+                "1. The government announced that it will now be measuring time in ***dog years***.",
+                "2. A new study found that the average person spends more time scrolling through their social media feed than they do sleeping.",
+                "3. A company released a line of ***smart*** socks that can send text messages and post on social media.",
+                "4. A group of activists demanded that all traffic lights be replaced with stop signs because they ***look more natural***.",
+                "5. A restaurant chain introduced a new menu item: ***a burger topped with a slice of cake***.",
+                "6. A fashion designer debuted a line of clothing made entirely out of recycled plastic water bottles. The outfits have been praised as ***eco-friendly*** and ***trendy***, but critics have pointed out that they also make a loud crinkling noise whenever the wearer moves.",
+                "7. A group of scientists claimed that they have discovered a way to make avocados taste like bacon. The announcement has been met with both excitement and skepticism, with many questioning whether the world is ready for such a revolutionary culinary breakthrough.",
+                "8. A politician announced that he will be running for office under the slogan ***Make America Great Again...Again***.",
+                "9. A company released a line of ***smart*** toilet paper that can play music and send tweets.",
+                "10. A group of protesters marched through the streets demanding that all cars be banned because ***they take up too much space and contribute to climate change***."
             ]
         }
     },
@@ -21,6 +22,7 @@
         "id": 2,
         "headline": "Local News",
         "title": "New Study Shows Majority of People Actually Just Pretending to Like Craft Beer",
+        "imgsrc": "/images/craft-beer.png",
         "article": {
             "section": [
                 "In a shocking turn of events, a new study has revealed that the majority of people who claim to be craft beer aficionados are actually just pretending.",
@@ -34,6 +36,7 @@
     {
         "id": 3,
         "title": "World Health Organization Announces That Stress is Actually Just a Myth",
+        "imgsrc": "/images/stress.png",
         "article": {
             "section": [
                 "In a shocking announcement, the World Health Organization (WHO) has declared that stress is a myth and that people who claim to be stressed are just making it up.",
@@ -48,6 +51,7 @@
     {
         "id": 4,
         "title": "Trump Administration Unveils Plan to Build Wall Around the Sun",
+        "imgsrc": "/images/wall-around-sun.png",
         "article": {
             "section": [
                 "The Trump Administration has announced their plan to build a wall around the sun. According to White House Press Secretary Sarah Huckabee Sanders, the sun poses a threat to national security and action must be taken to protect American citizens.",
@@ -62,6 +66,7 @@
     {
         "id": 5,
         "title": "Experts: Global Economic Collapse Just a Coincidence, Definitely Not the Result of Reckless, Short-Sighted Policies",
+        "imgsrc": "",
         "article": {
             "section": [
                 "In a shocking revelation, experts have announced that the global economic collapse currently being experienced by countries around the world is just a coincidence, and definitely not the result of reckless, short-sighted policies enacted by government leaders.",
@@ -76,6 +81,7 @@
     {
         "id": 6,
         "title": "Government Announces Plan to Replace All Forms of Communication with Emoji-Only Text Messages",
+        "imgsrc": "",
         "article": {
             "section": [
                 "In a shocking move, the government has announced plans to phase out all forms of traditional communication, including verbal, written, and even sign language. The new plan, dubbed ***\"Emoji-Only,\"*** will require all citizens to communicate exclusively through a series of carefully selected emojis.",
@@ -89,23 +95,49 @@
     {
         "id": 7,
         "title": "New Study Shows That Making the Stupid Even Stupider is Actually Possible",
+        "imgsrc": "",
         "article": {
             "section": [
-                "In a shocking new study, researchers at the Institute of Really Obvious Things have discovered that it is actually possible to make the stupid even stupider.",
-                "According to lead researcher Dr. Susan Smart, the team was able to achieve this feat by subjecting the already dim-witted to an endless stream of reality TV shows, conspiracy theories, and viral Facebook posts.",
-                "***\"We were really surprised by the results,\"*** said Dr. Smart. ***\"We thought these people couldn't get any dumber, but we were wrong. The potential applications of this technology are endless.\"***",
-                "The news has been met with mixed reactions, with some calling it a miraculous breakthrough and others decrying it as a form of torture. Regardless, the team at the Institute of Really Obvious Things is already looking into ways to monetize their discovery, with plans to open 'stupidity spas' and sell 'stupidity supplements' in the near future.",
-                "In the meantime, the rest of us can only hope that the stupid stay blissfully unaware of their own idiocy and continue to make poor life choices without any additional help."
+                "In a groundbreaking study, researchers at the Institute of Really Obvious Things have made a shocking discovery: it is possible to make the stupid even stupider.",
+                "According to lead researcher Dr. Karen Smith, the team began their experiment by selecting a group of individuals with IQs below the national average. These subjects were then exposed to a variety of idiotic stimuli, including Fox News, conspiracy theory podcasts, and Facebook posts from their grandparents.",
+                "The results were astounding. After just one week of exposure, the subjects' intelligence levels had decreased by an average of 10 points. In some cases, the decline was even more dramatic, with some subjects losing up to 20 points of IQ.",
+                "But the team didn't stop there. They decided to take their experiment to the next level by increasing the dosage of idiocy. They added more Fox News, more conspiracy theories, and more Facebook posts from grandma.",
+                "The results were staggering. The subjects' intelligence levels continued to decline, with some dropping to levels that were previously thought to be impossible.",
+                "***\"We were amazed by what we saw,\"*** said Dr. Smith. ***\"We had no idea that it was possible to make the stupid even stupider. It's a game-changer for the field of intelligence research.\"***",
+                "The team is now planning to replicate their study on a larger scale, with the hopes of finding a way to reverse the effects of idiocy. But until then, it seems that the stupid are getting stupider by the day."
             ]
         }
     },
     {
-        "id":8,
+        "id": 8,
+        "title": "Local Man Robs Bank, Shocked to Find Out It's Illegal",
+        "imgsrc": "",
+        "article": {
+            "section": []
+        }
+    },
+    {
+        "id": 9,
         "title": "",
-        "article":{
-            "section":[
-                
-            ]
+        "imgsrc": "",
+        "article": {
+            "section": []
+        }
+    },
+    {
+        "id": 10,
+        "title": "",
+        "imgsrc": "",
+        "article": {
+            "section": []
+        }
+    },
+    {
+        "id": 11,
+        "title": "",
+        "imgsrc": "",
+        "article": {
+            "section": []
         }
     }
 ]

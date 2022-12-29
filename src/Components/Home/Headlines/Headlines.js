@@ -28,13 +28,13 @@ const Headlines = () => {
                         unlimited amounts of money, leading to skyrocketing inflation and the devaluation of <br />
                         currencies.
                     </p>
-                    <li><Link to="/amazon-plans-brick-and-mortor" className='link'>Amazon Announces Plan to Open Brick and Mortar Stores in Customers' Homes</Link></li>
+                    <li><Link to="/government-replace-all-forms-of-communication" className='link'>Government Announces Plan to Replace All Forms of Communication with Emoji-Only Text Messages</Link></li>
                     <p>
-                        "We believe that the future of retail is in the home," said Amazon CEO Jeff Bezos. "Our <br />
-                        stores will be tailored to each customer's unique interests and needs, and we'll be able to <br />
-                        offer an even more seamless and convenient shopping experience."<br />
+                        "In a shocking move, the government has announced plans to phase out all forms of traditional <br/>
+                        communication, including verbal, written, and even sign language.The new plan, dubbed "Emoji-Only,"
+                         will require all citizens to communicate exclusively through a series of carefully selected emojis.
                     </p>
-                    <li><Link to="/research-article" className="link">New Study Shows That Making the Stupid Even Stupider is Actually Possible</Link></li>
+                    <li><Link to="/study-shows-that-stupid-can-get-even-stupider" className="link">New Study Shows That Making the Stupid Even Stupider is Actually Possible</Link></li>
                     <p>
                         In a shocking new discovery, scientists have found a way to make the stupid even stupider. <br/>
                         In a groundbreaking study, researchers at the Institute of Really Obvious Things found that <br/>

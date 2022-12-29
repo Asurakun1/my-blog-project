@@ -3,11 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from '../Home/Home';
 import Error404 from '../Error/Error';
 import Article0 from '../ArticleSection/Articles/Article-0';
-import Article1 from '../ArticleSection/Articles/Article-1';
 import { useState, useEffect } from "react";
-import Article2 from '../ArticleSection/Articles/Article-2';
-import Article3 from '../ArticleSection/Articles/Article-3';
-import Article4 from '../ArticleSection/Articles/Article-4';
 const NavBar = () => {
     const [rawData, setRawData] = useState("Loading...");
 
@@ -30,10 +26,12 @@ const NavBar = () => {
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/random-article" element={<Article0 data={rawData[0]}/>} />
-                <Route path="/craft-Beer" element={<Article1 data={rawData[1]}/>} />
-                <Route path="/who-Stress-Myth" element={<Article2 data={rawData[2]}/>} />
-                <Route path="/trump-wall-around-sun" element={<Article3 data={rawData[3]}/>} />
-                <Route path="/global-economic-collapse" element={<Article4 data={rawData[4]}/>} />
+                <Route path="/craft-Beer" element={<Article0 data={rawData[1]}/>} />
+                <Route path="/who-Stress-Myth" element={<Article0 data={rawData[2]}/>} />
+                <Route path="/trump-wall-around-sun" element={<Article0 data={rawData[3]}/>} />
+                <Route path="/global-economic-collapse" element={<Article0 data={rawData[4]}/>} />
+                <Route path="/government-replace-all-forms-of-communication" element={<Article0 data={rawData[5]}/>}/>
+                <Route path="/study-shows-that-stupid-can-get-even-stupider" element={<Article0 data={rawData[6]}/>}/>
                 <Route path="*" element={<Error404/>}/>
             </Routes>
         </Router>
