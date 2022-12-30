@@ -6,9 +6,9 @@ const Article0 = (props) => {
     return (
         <section className="article">
             <Author0 />
-            <h1 className="article-title">{typeof props.data !== "string" ? props.data.title : loading}</h1>
+            <h1 className="article-title">{props.data ? <ReactMarkdown>{props.data.title}</ReactMarkdown> : loading}</h1>
             {
-                typeof props.data !== "string" ?
+                props.data ?
                     <article>
                         <div>
                             {

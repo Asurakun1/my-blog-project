@@ -4,7 +4,12 @@ import Headlines from './Headlines/Headlines';
 import './Home.css';
 import '../ArticleSection/ArticleSection.css';
 import Local from './Local/Local';
+import { useNavigate } from 'react-router-dom';
 const Home = () => {
+    const navigate = useNavigate();
+    const handleClick = () => {
+        navigate("/contact");
+    }
 
     return (
         <div className='My-Color-Theme-5-hex'>
@@ -13,7 +18,7 @@ const Home = () => {
                 {
                     <ul>
                         <li><NavLink to="/" className="link">Home</NavLink></li>
-                        <li><NavLink to="/random-article" className="link">Random Article</NavLink></li>
+                        <li className="link" onClick={handleClick}>Random Article</li>
                         <li><NavLink to='/about-us' className="link">About us</NavLink></li>
                         <li><NavLink to='/contact' className="link">Contact</NavLink></li>
                     </ul>

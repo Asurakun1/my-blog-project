@@ -153,34 +153,48 @@
     },
     {
         "id": 11,
-        "title": "",
+        "title": "Local Shops Embrace the Future by Replacing Employees with Robots: \"They Never Complain and They Don't Need Breaks\"",
         "imgsrc": "",
         "article": {
-            "section": []
+            "section": [
+                "In a shocking turn of events, local shops across the country are embracing the future by replacing their employees with robots. According to shop owners, the decision was a no-brainer.",
+                "***\"They never complain, they don't need breaks, and they never ask for a raise,\"*** said Bob, owner of Bob's Hardware. ***\"I mean, sure, they cost a little more upfront, but in the long run, it's worth it.\"***",
+                "Customers seem to be on board with the change as well. ***\"I was a little hesitant at first,\"*** said Sally, a regular at Bob's Hardware. ***\"But then I realized that I don't have to deal with rude employees or long lines. It's a win-win.\"***",
+                "However, not everyone is thrilled about the rise of the robots. Former employees of the shops have taken to the streets to protest their unfair dismissal.",
+                "***\"We were just replaced by a bunch of metal boxes,\"*** said Tim, a former employee of Bob's Hardware. ***\"It's not fair. We have families to feed and bills to pay. And now we're out of a job because some robot can do it better?\"***",
+                "Despite the backlash, shop owners remain confident in their decision. ***\"Look, I'm not heartless,\"*** said Bob. ***\"But at the end of the day, it's about running a successful business. And if that means replacing my employees with robots, so be it.\"***"
+            ]
         }
     },
     {
         "id": 12,
-        "title": "",
+        "title": "Local Man Brags About Being \"Isekai'd\" into Fantasy World, Returns with Terrible Manuscript and No Marketable Skills",
         "imgsrc": "",
         "article": {
-            "section": []
+            "section": [
+                "Local man, Tim Johnson, is causing quite the stir in his small town. After claiming to have been ***\"isekai'd\"*** into a fantasy world, he returned with a manuscript of his supposed adventures and has been trying to sell it to anyone who will listen.",
+                "However, it quickly became apparent that Johnson's skills as a writer leave much to be desired. His manuscript was filled with grammatical errors, plot holes, and flat-out nonsensical events.",
+                "Despite the lack of interest in his work, Johnson remains convinced that he will one day be the next J.K. Rowling or George R.R. Martin. In fact, he has even gone as far as to ***threaten legal action*** against anyone who dares to criticize his writing.",
+                "***\"They just don't understand true art,\"*** Johnson said in a recent interview. ***\"They're just jealous that I was able to experience things that they could only dream of.\"***",
+                "But it seems that Johnson's fantasy world may not have been all it was cracked up to be. In a shocking twist, it was revealed that the ***\"isekai\"*** experience was actually just a hallucination brought on by a severe concussion. Johnson had been hit by a bus, also known as ***\"truck-kun,\"*** and spent the entire time in a coma.",
+                "Despite the revelation, Johnson remains undeterred. He plans to self-publish his manuscript and is already working on a sequel.",
+                "***\"I'm going to show the world that I'm a real artist,\"*** he said. ***\"Isekai or not, my story is going to be a best-seller.\"***"
+            ]
         }
     },
     {
         "id": 13,
-        "title": "",
+        "title": "Man Loses Life Savings at Casino, Calls it \"Smart Financial Move\" and Demands to See Manager",
         "imgsrc": "",
         "article": {
-            "section": []
-        }
-    },
-    {
-        "id": 14,
-        "title": "",
-        "imgsrc": "",
-        "article": {
-            "section": []
+            "section": [
+                "Local man, John Doe, is making headlines today for his outrageous behavior at the downtown casino. After losing his entire life savings at the slot machines, Doe marched up to the manager's office and demanded a refund.",
+                "***\"I knew the odds were against me, but I thought I could beat the system,\"*** Doe told reporters. ***\"Turns out, it was just a smart financial move on my part.\"***",
+                "According to witnesses, Doe became increasingly agitated when the manager explained that the casino does not offer refunds on lost bets. He proceeded to demand to speak to the CEO, the Better Business Bureau, and even the governor.",
+                "***\"This guy was completely off his rocker,\"*** said one witness. ***\"He kept yelling about how he was entitled to his money back and how the casino was trying to rip him off.\"***",
+                "The situation escalated to the point where security had to be called in to remove Doe from the premises. He was later arrested and charged with trespassing and disturbing the peace.",
+                "Despite the outcome, Doe remains unapologetic. ***\"I don't regret a thing,\"*** he said. ***\"I'll be back to the casino next week, and this time, I'll come prepared with even more money to 'invest.'\"***"
+            ]
         }
     }
 ]
