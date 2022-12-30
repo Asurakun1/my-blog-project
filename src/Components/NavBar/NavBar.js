@@ -18,8 +18,8 @@ const NavBar = () => {
         }
         setTimeout(() => {
             dataToFetch();
-        }, 1000);
-    }, [rawData]);
+        }, 200);
+    }, []);
 
     return (
         <Router>
