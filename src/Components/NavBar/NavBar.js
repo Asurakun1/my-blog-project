@@ -18,7 +18,7 @@ const NavBar = () => {
         }
         setTimeout(() => {
             dataToFetch();
-        }, 200);
+        }, 1000);
     }, []);
 
     return (
