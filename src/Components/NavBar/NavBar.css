@@ -21,11 +21,11 @@
     justify-content: center;
 }
 
-@media only screen and (max-width: 630px){
+@media only screen and (max-width: 800px){
     .main-nav ul{
         flex-wrap: wrap;
         gap: 5vw;
-        justify-content: space-evenly;
+        justify-content: flex-start;
     }
     
 }
