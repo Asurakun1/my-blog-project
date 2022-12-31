@@ -24,7 +24,7 @@ const Article0 = (props) => {
 
     const loading = "Loading...";
 
-    console.log(props.data.id)
+    console.log(props.data.id, data)
     return (
         <section className="article">
             <Author0 />
