@@ -28,9 +28,9 @@ const Article0 = (props) => {
     return (
         <section className="article">
             <Author0 />
-            <h1 className="article-title">{props.data ? <ReactMarkdown>{props.data.title}</ReactMarkdown> : loading}</h1>
+            <h1 className="article-title">{data ? <ReactMarkdown>{props.data.title}</ReactMarkdown> : loading}</h1>
             {
-                props.data ?
+                data ?
                     <article>
                         <div>
                             {
