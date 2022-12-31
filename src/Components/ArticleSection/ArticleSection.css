@@ -1,4 +1,4 @@
-.article{
+.article {
     font-size: 1.3rem;
     position: relative;
     display: flex;
@@ -8,38 +8,51 @@
     background-color: #F6E6DB;
 }
 
-.article article{
+.article article {
     max-width: 47vw;
     line-height: 2.5rem;
-}
-
-.article .article-title{
-    margin-top: 25vh;
-    max-width: 60vw;
-    line-height: 2.8rem;
-}
-
-.article article ol li strong, .article article section p strong {
-    font-size: 1.5rem;
-}
-
-.article article{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.article article img{
+.article .article-title {
+    margin-top: 25vh;
+    max-width: 60vw;
+    line-height: 2.8rem;
+}
+
+.article article ol li strong,
+.article article section p strong {
+    font-size: 1.5rem;
+}
+
+.article article img {
     display: block;
     width: 40vw;
     height: 50vh;
 }
 
-.article article section p{
+.article article section p {
     text-indent: 2.5rem;
 }
 
-.article article div{
+.article article div {
     max-width: 40vw;
     max-height: 50vh;
+}
+
+@media only screen and (max-width: 1034px) {
+    
+    .article article, .article .article-title {
+        max-width: 85vw;
+    }
+
+    .article .article-title{
+        margin: 0;
+    }
+
+    .article article div, .article article img {
+        min-width: 80vw;
+    }
 }

@@ -1,4 +1,5 @@
 import './Error.css';
+import SpinLoader from './SpinLoader';
 
 const Error404 = () => {
     return (
@@ -7,14 +8,7 @@ const Error404 = () => {
                 <h1>404 - Page Not Found</h1>
                 <p>Sorry, the page you are trying to access doesn't exist</p>
             </section>
-            <div className='error-box spin'>
-                <div className='error-box spin-reverse'>
-                    <div className='error-box rotate'>
-                        <div className='error-box reverse-rotate'>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <SpinLoader/>
         </section>
     );
 }

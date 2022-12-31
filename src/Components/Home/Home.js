@@ -5,10 +5,11 @@ import './Home.css';
 import '../ArticleSection/ArticleSection.css';
 import Local from './Local/Local';
 import { useNavigate } from 'react-router-dom';
-const Home = () => {
+const Home = (props) => {
     const navigate = useNavigate();
     const handleClick = () => {
-        navigate("/contact");
+        const random = Math.floor(Math.random() * props.data.length) + 1;
+        navigate(`/article-${random}`);
     }
 
     return (

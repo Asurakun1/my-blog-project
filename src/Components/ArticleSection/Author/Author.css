@@ -1,4 +1,4 @@
-.author{
+.author {
     position: absolute;
     top: 1vh;
     left: 20vw;
@@ -8,13 +8,43 @@
     gap: 1vw;
 }
 
-.author img{
-    width: 35%;
-    height: 35%;
+.author img {
+    width: 10vw;
     border-radius: 50%;
 }
 
-.author section h3 span{
+.author section h3 span {
     font-style: italic;
     text-transform: uppercase;
+}
+
+.author .author-container {
+    display: flex;
+    min-width: 10vw;
+}
+
+@media only screen and (max-width: 1106px) {
+    .author {
+        position: static;
+        max-width: 80vw;
+        margin-top: 10vh;
+    }
+
+    .author .author-container {
+        min-width: 20vw;
+    }
+
+    .author img {
+        width: 20vw;
+    }
+}
+
+@media only screen and (max-width: 502px) {
+    .author{
+        flex-direction: column;
+    }
+
+    .author img{
+        width: 40vw;
+    }
 }

@@ -2,13 +2,10 @@ import Author0 from '../Author/Author0';
 import ReactMarkdown from 'react-markdown';
 const Article0 = (props) => {
 
-    const loading = "Loading...";
     return (
         <section className="article">
             <Author0 />
-            <h1 className="article-title">{props.data ? <ReactMarkdown>{props.data.title}</ReactMarkdown> : loading}</h1>
-            {
-                props.data ?
+            <h1 className="article-title">{<ReactMarkdown>{props.data.title}</ReactMarkdown>}</h1>
                     <article>
                         <div>
                             {
@@ -23,8 +20,6 @@ const Article0 = (props) => {
                             })}
                         </section>
                     </article>
-                    : loading
-            }
         </section>
     );
 }
