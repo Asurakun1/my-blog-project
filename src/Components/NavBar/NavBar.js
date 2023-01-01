@@ -5,6 +5,7 @@ import Error404 from '../Error/Error';
 import Article0 from '../ArticleSection/Articles/Article-0';
 import { useState, useEffect } from "react";
 import SpinLoader from '../Error/SpinLoader';
+import AboutMe from '../AboutMe/AboutMe';
 const NavBar = () => {
     const [rawData, setRawData] = useState();
     useEffect(() => {
@@ -34,7 +35,7 @@ const NavBar = () => {
                                 return <Route key={index} path={`/article-${element.id}`} element={<Article0 data={element}/>} />
                             })
                         }
-
+                        <Route path='/about-us' element={<AboutMe/>} />
                         <Route path="*" element={<Error404 />} />
                     </Routes>
                     : <section className='article'>
