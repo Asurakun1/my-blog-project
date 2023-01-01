@@ -10,7 +10,7 @@ const Home = (props) => {
     return (
         <div className='My-Color-Theme-5-hex'>
             <Header />
-            <MainNav data={props}/>
+            <MainNav data={props.data}/>
             <section className="home">
                 <Headlines />
                 <Local />

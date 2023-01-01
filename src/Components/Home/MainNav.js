@@ -5,6 +5,7 @@ const MainNav = (props) => {
     const navigate = useNavigate();
     const handleClick = () => {
         const random = Math.floor(Math.random() * props.data.length) + 1;
+        console.log(random);
         navigate(`/article-${random}`);
         window.scrollTo(0,0);
     }
