@@ -15,7 +15,7 @@ const Header = () => {
         }
         setTimeout(() => {
             fetchQuote();
-        }, 1000);
+        }, 500);
 
     }, [])
     const random = quote ? Math.floor(Math.random() * quote.length) : null;
