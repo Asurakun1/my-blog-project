@@ -1,10 +1,40 @@
 import './Header.css';
-
+import { useState, useEffect } from 'react';
 const Header = () => {
+    const [quote, setQuote] = useState();
+
+    useEffect(() => {
+        const fetchQuote = async () => {
+            try {
+                const response = await fetch('/data/quotes.JSON');
+                const jsonResponse = await response.json();
+                setQuote(jsonResponse);
+            } catch (e) {
+                console.log(e)
+            }
+        }
+        setTimeout(() => {
+            fetchQuote();
+        }, 1000);
+
+    }, [])
+    const random = quote ? Math.floor(Math.random() * quote.length) : null;
     return (
         <div className='layer'>
             <h1 className='title'>The Daily Grumble</h1>
-            <h3>"The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt." - Bertrand Russell</h3>
+            {
+                quote ?
+                    <section className='quotes'>
+                        <section className='quote'>
+                            <h3>
+                                {quote[random].quote}
+                            </h3>
+                        </section>
+                        <section className='quote-author'><h4> - {quote[random].author}</h4></section>
+                    </section>
+                    :
+                    <h3>Loading...</h3>
+            }
         </div>
     );
 }

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "quote": "The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt.",
+        "author": "Bertrand Russell"
+    },
+    {
+        "id": 2,
+        "quote": "The only way to keep the government in check is to outsource it to a third-world country where it won't matter anyway.",
+        "author": "George Carlin"
+    },
+    {
+        "id": 3,
+        "quote": "The only way to achieve world peace is to make sure everyone is armed and ready to kill each other at a moment's notice.",
+        "author": "Dave Chappelle"
+    },
+    {
+        "id": 4,
+        "quote": "The best way to improve education is to replace teachers with vending machines. That way, students can choose their own curriculum based on what snacks they feel like buying.",
+        "author": "Stephen Colbert"
+    },
+    {
+        "id": 5,
+        "quote": "The solution to climate change is simple: just turn off the sun and turn on the air conditioning.",
+        "author": "Trevor Noah"
+    },
+    {
+        "id": 6,
+        "quote": "The only way to solve the problem of overpopulation is to make having kids illegal. That way, only the rich and powerful will be able to afford children, and we can finally achieve true social mobility.",
+        "author": "Jon Stewart"
+    }
+]

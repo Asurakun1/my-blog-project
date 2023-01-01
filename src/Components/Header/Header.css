@@ -8,11 +8,24 @@
   background-color: rgb(14, 14, 14);
 }
 
-.layer h3 {
-  max-width: 80vw;
+.layer .quote {
+  position: relative;
   font-size: 1.5rem;
+  display: flex;
 }
 
-.layer .title{
+.layer .title {
   text-align: center;
+}
+
+.layer .quotes {
+  max-width: 70vw;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+}
+
+.layer .quotes .quote-author {
+  font-size: 1.3rem;
 }
