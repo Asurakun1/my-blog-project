@@ -5,6 +5,7 @@ import './Home.css';
 import '../ArticleSection/ArticleSection.css';
 import Local from './Local/Local';
 import { useNavigate } from 'react-router-dom';
+
 const Home = (props) => {
     const navigate = useNavigate();
     const handleClick = () => {
