@@ -1,3 +1,6 @@
+.error-page{
+    min-height: 100vh;
+}
 .error{
     text-align: center;
     font-size: 1.5rem;

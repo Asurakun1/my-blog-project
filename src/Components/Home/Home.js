@@ -8,7 +8,7 @@ import MainNav from './MainNav';
 const Home = (props) => {
 
     return (
-        <div className='My-Color-Theme-5-hex'>
+        <div>
             <Header />
             <MainNav data={props.data}/>
             <section className="home">

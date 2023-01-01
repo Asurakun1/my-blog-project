@@ -2,7 +2,7 @@ import ReactMarkdown from "react-markdown";
 import './AboutMe.css';
 const AboutMe = () => {
     return (
-        <div className="My-Color-Theme-5-hex about">
+        <div className="about">
             <section className="about-us">
                 <h1>About us</h1>
             </section>

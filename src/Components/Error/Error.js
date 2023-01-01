@@ -3,6 +3,7 @@ import SpinLoader from './SpinLoader';
 
 const Error404 = () => {
     return (
+        <div className='error-page'>
         <section className='error'>
             <section>
                 <h1>404 - Page Not Found</h1>
@@ -10,6 +11,7 @@ const Error404 = () => {
             </section>
             <SpinLoader/>
         </section>
+        </div>
     );
 }
 

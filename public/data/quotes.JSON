@@ -28,5 +28,30 @@
         "id": 6,
         "quote": "The only way to solve the problem of overpopulation is to make having kids illegal. That way, only the rich and powerful will be able to afford children, and we can finally achieve true social mobility.",
         "author": "Jon Stewart"
+    },
+    {
+        "id": 7,
+        "quote": "The only difference between a tax man and a taxidermist is that the taxidermist leaves the skin.",
+        "author": "Mark Twain"
+    },
+    {
+        "id": 8,
+        "quote": "I have never let my schooling interfere with my education.",
+        "author": "Mark Twain" 
+    },
+    {
+        "id": 9,
+        "quote": "I have made this letter longer than usual because I lack the time to make it shorter.",
+        "author": "Blaise Pascal"
+    },
+    {
+        "id": 10,
+        "quote": "If you think you are too small to make a difference, try sleeping with a mosquito.",
+        "author": "Dalai Lama"
+    },
+    {
+        "id": 11,
+        "quote": "I am not a vegetarian because I love animals; I am a vegetarian because I hate plants.",
+        "author": "A. Whitney Brown"
     }
 ]

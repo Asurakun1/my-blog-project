@@ -7,7 +7,7 @@ const Header = () => {
         const fetchQuote = async () => {
             try {
                 const response = await fetch('/data/quotes.JSON');
-                const jsonResponse = await response.json();
+                const jsonResponse = response.ok ? await response.json() : console.log(response);
                 setQuote(jsonResponse);
             } catch (e) {
                 console.log(e)
@@ -33,7 +33,7 @@ const Header = () => {
                         <section className='quote-author'><h4> - {quote[random].author}</h4></section>
                     </section>
                     :
-                    <h3>Loading...</h3>
+                    <h2>Loading...</h2>
             }
         </div>
     );
