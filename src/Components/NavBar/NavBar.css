@@ -29,3 +29,11 @@
     }
     
 }
+
+@media only screen and (max-width: 425px) {
+    .loading-circle .article{
+        display: flex;
+        gap: 8rem;
+        min-height: 80vh;
+    }
+}

@@ -8,6 +8,7 @@ import SpinLoader from '../Error/SpinLoader';
 import AboutMe from '../AboutMe/AboutMe';
 const NavBar = () => {
     const [rawData, setRawData] = useState();
+    const [quote, setQuote] = useState();
     useEffect(() => {
         const dataToFetch = async () => {
             try {
@@ -18,30 +19,43 @@ const NavBar = () => {
                 console.log(err);
             }
         }
+
+        const fetchQuote = async () => {
+            try {
+                const response = await fetch('/data/quotes.JSON');
+                const jsonResponse = response.ok ? await response.json() : console.log(response);
+                setQuote(jsonResponse);
+            } catch (e) {
+                console.log(e)
+            }
+        }
         setTimeout(() => {
             dataToFetch();
+            fetchQuote();
         }, 1000);
     }, []);
 
     return (
         <Router>
             {
-                rawData ?
+                rawData && quote ?
                     <Routes>
 
-                        <Route path="/" element={<Home data={rawData} />} />
+                        <Route path="/" element={<Home data={rawData} quote={quote} />} />
                         {
                             rawData.map((element, index) => {
-                                return <Route key={index} path={`/article-${element.id}`} element={<Article0 data={element}/>} />
+                                return <Route key={index} path={`/article-${element.id}`} element={<Article0 data={element} />} />
                             })
                         }
-                        <Route path='/about-us' element={<AboutMe/>} />
+                        <Route path='/about-us' element={<AboutMe />} />
                         <Route path="*" element={<Error404 />} />
                     </Routes>
-                    : <section className='article'>
-                        <h1 className='article-title'>Loading...</h1>
-                        <br />
-                        <SpinLoader />
+                    :
+                    <section className='loading-circle'>
+                        <section className='article'>
+                            <h1 className='article-title'>Loading...</h1>
+                            <SpinLoader />
+                        </section>
                     </section>
             }
         </Router>

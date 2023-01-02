@@ -9,7 +9,7 @@ const Home = (props) => {
 
     return (
         <div>
-            <Header />
+            <Header quote={props.quote}/>
             <MainNav data={props.data}/>
             <section className="home">
                 <Headlines />

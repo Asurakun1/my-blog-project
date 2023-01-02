@@ -1,7 +1,8 @@
-.error-page{
+.error-page {
     min-height: 100vh;
 }
-.error{
+
+.error {
     text-align: center;
     font-size: 1.5rem;
     display: flex;
@@ -9,49 +10,48 @@
     align-items: center;
 }
 
-.error section{
+.error section {
     min-height: 25vh;
 }
 
-.error-box{
+.error-box {
     border: 2px solid black;
     min-width: 10rem;
     min-height: 10rem;
 }
 
-.spin{
+.spin {
     animation: spin 3s linear infinite;
 }
 
-.spin-reverse{
+.spin-reverse {
     transform: rotate(45deg);
 }
 
-.rotate{
+.rotate {
     transform: rotate(22deg);
 }
 
-.reverse-rotate{
+.reverse-rotate {
     transform: rotate(45deg);
 }
 
-
 @keyframes spin {
-    from{
+    from {
         transform: rotate(0deg);
     }
-    
-    to{
+
+    to {
         transform: rotate(360deg);
     }
 }
 
 @keyframes spinReverse {
-    from{
+    from {
         transform: rotate(360deg);
     }
-    
-    to{
+
+    to {
         transform: rotate(0deg);
     }
 }
