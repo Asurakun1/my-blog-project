@@ -3,6 +3,7 @@
         "id": 1,
         "title": "The Top 10 Most Absurd Things That Have Happened This Year (So Far)",
         "imgsrc": "",
+        "articleType":"headline",
         "article": {
             "section": [
                 "1. The government announced that it will now be measuring time in ***dog years***.",
@@ -23,6 +24,7 @@
         "headline": "Local News",
         "title": "New Study Shows Majority of People Actually Just Pretending to Like Craft Beer",
         "imgsrc": "/images/craft-beer.png",
+        "articleType":"headline",
         "article": {
             "section": [
                 "In a shocking turn of events, a new study has revealed that the majority of people who claim to be craft beer aficionados are actually just pretending.",
@@ -37,6 +39,7 @@
         "id": 3,
         "title": "World Health Organization Announces That Stress is Actually Just a Myth",
         "imgsrc": "/images/stress.png",
+        "articleType":"headline",
         "article": {
             "section": [
                 "In a shocking announcement, the World Health Organization (WHO) has declared that stress is a myth and that people who claim to be stressed are just making it up.",
@@ -52,6 +55,7 @@
         "id": 4,
         "title": "Trump Administration Unveils Plan to Build Wall Around the Sun",
         "imgsrc": "/images/wall-around-sun.png",
+        "articleType":"headline",
         "article": {
             "section": [
                 "The Trump Administration has announced their plan to build a wall around the sun. According to White House Press Secretary Sarah Huckabee Sanders, the sun poses a threat to national security and action must be taken to protect American citizens.",
@@ -67,6 +71,7 @@
         "id": 5,
         "title": "Experts: Global Economic Collapse Just a Coincidence, Definitely Not the Result of Reckless, Short-Sighted Policies",
         "imgsrc": "",
+        "articleType":"headline",
         "article": {
             "section": [
                 "In a shocking revelation, experts have announced that the global economic collapse currently being experienced by countries around the world is just a coincidence, and definitely not the result of reckless, short-sighted policies enacted by government leaders.",
@@ -82,6 +87,7 @@
         "id": 6,
         "title": "Government Announces Plan to Replace All Forms of Communication with Emoji-Only Text Messages",
         "imgsrc": "",
+        "articleType":"headline",
         "article": {
             "section": [
                 "In a shocking move, the government has announced plans to phase out all forms of traditional communication, including verbal, written, and even sign language. The new plan, dubbed ***\"Emoji-Only,\"*** will require all citizens to communicate exclusively through a series of carefully selected emojis.",
@@ -96,6 +102,7 @@
         "id": 7,
         "title": "New Study Shows That Making the Stupid Even Stupider is Actually Possible",
         "imgsrc": "",
+        "articleType":"headline",
         "article": {
             "section": [
                 "In a groundbreaking study, researchers at the Institute of Really Obvious Things have made a shocking discovery: it is possible to make the stupid even stupider.",
@@ -112,6 +119,7 @@
         "id": 8,
         "title": "Local Man Robs Bank, Shocked to Find Out It's Illegal",
         "imgsrc": "",
+        "articleType":"local",
         "article": {
             "section": [
                 "In a shocking turn of events, local man Jeffery Thompson found out the hard way that robbing a bank is actually illegal. Thompson, who had always assumed that banks were just giant piggy banks full of free money, was completely taken aback when police officers arrived on the scene and arrested him.",
@@ -126,6 +134,7 @@
         "id": 9,
         "title": "Man Thinks SWAT Team Raiding His Home is Actually a Surprise Birthday Party, Gets Tased and Handcuffed",
         "imgsrc": "",
+        "articleType":"local",
         "article": {
             "section": [
                 "In a shocking turn of events, local man Tim Johnson was left stunned when he woke up to a SWAT team raiding his home early this morning. Thinking it was a surprise birthday party organized by his loved ones, Tim opened the door with a smile on his face, only to be met with a barrage of tasers and handcuffs.",
@@ -140,6 +149,7 @@
         "id": 10,
         "title": "Outraged Man Demands to See Manager After Learning It's Actually Illegal to Steal From Local Pharmacy",
         "imgsrc": "",
+        "articleType":"local",
         "article": {
             "section": [
                 "The scene was chaotic and absurd, as if something straight out of a comedy sketch. Local man, Tom Jenkins, was livid. He had just learned that it was actually illegal to steal from the local pharmacy, and he was not happy about it.",
@@ -155,6 +165,7 @@
         "id": 11,
         "title": "Local Shops Embrace the Future by Replacing Employees with Robots: \"They Never Complain and They Don't Need Breaks\"",
         "imgsrc": "",
+        "articleType":"local",
         "article": {
             "section": [
                 "In a shocking turn of events, local shops across the country are embracing the future by replacing their employees with robots. According to shop owners, the decision was a no-brainer.",
@@ -170,6 +181,7 @@
         "id": 12,
         "title": "Local Man Brags About Being \"Isekai'd\" into Fantasy World, Returns with Terrible Manuscript and No Marketable Skills",
         "imgsrc": "",
+        "articleType":"local",
         "article": {
             "section": [
                 "Local man, Tim Johnson, is causing quite the stir in his small town. After claiming to have been ***\"isekai'd\"*** into a fantasy world, he returned with a manuscript of his supposed adventures and has been trying to sell it to anyone who will listen.",
@@ -186,6 +198,7 @@
         "id": 13,
         "title": "Man Loses Life Savings at Casino, Calls it \"Smart Financial Move\" and Demands to See Manager",
         "imgsrc": "",
+        "articleType":"local",
         "article": {
             "section": [
                 "Local man, John Doe, is making headlines today for his outrageous behavior at the downtown casino. After losing his entire life savings at the slot machines, Doe marched up to the manager's office and demanded a refund.",
