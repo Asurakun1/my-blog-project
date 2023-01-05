@@ -12,8 +12,8 @@ const Home = (props) => {
             <Header quote={props.quote}/>
             <MainNav data={props.data}/>
             <section className="home">
-                <Headlines />
-                <Local />
+                <Headlines data={props.data}/>
+                <Local data={props.data}/>
             </section>
         </div>
     );

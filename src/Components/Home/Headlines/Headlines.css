@@ -1,26 +1,32 @@
-
-.home .headlines ul li, .home .local ul li{
+.home .headlines ul li,
+.home .local ul li {
     font-weight: bold;
     list-style-type: none;
 }
 
-.home .headlines h3{
+.home .headlines ul li li {
+    font-weight: normal;
+    list-style-type: decimal;
+}
+
+.home .headlines h3 {
     text-align: center;
 }
 
-.home .headlines ul p{
+.home .headlines ul li p {
     font-size: 1.2rem;
     line-height: 1.5rem;
     margin-left: 1vw;
+    font-weight: normal;
 }
 
-.home .headlines{
+.home .headlines {
     max-width: 47vw;
 }
 
 @media only screen and (max-width: 944px) {
-    .home .headlines{
+    .home .headlines {
         max-width: 90vw;
     }
-    
+
 }
